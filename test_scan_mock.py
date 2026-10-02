@@ -40,7 +40,7 @@ class Pin:
 
 
 fake = types.ModuleType("machine")
-fake.Pin = Pin
+fake.Pin = Pin  # type: ignore
 sys.modules["machine"] = fake
 
 from tester import scan, analyze  # noqa: E402
