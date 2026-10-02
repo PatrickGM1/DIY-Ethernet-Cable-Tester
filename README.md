@@ -18,9 +18,7 @@ For now I checked only [otronic.nl](https://www.otronic.nl), they seem pretty ch
 
 # Pinout
 
-![RP2040 Zero pinout](https://mischianti.org/wp-content/uploads/2022/09/Waveshare-rp2040-zero-Raspberry-Pi-Pico-alternative-pinout.jpg)
-
-Pinout image by [mischianti.org](https://mischianti.org), CC BY-NC-ND.
+Pinout: [RP2040 Zero diagram on mischianti.org](https://mischianti.org/2022/09/26/raspberry-pi-pico-alternative-rp2040-zero-high-resolution-pinout-and-specs/) (CC BY-NC-ND — hotlinking blocked, re-hosting not permitted).
 
 # Wiring diagram
 
