@@ -20,6 +20,12 @@ For now I checked only [otronic.nl](otronic.nl), they seem pretty cheap, I wante
 
 ![RP2040 Zero pinout](Waveshare-rp2040-zero-Raspberry-Pi-Pico-alternative-pinout.jpg)
 
+# Wiring diagram
+
+![Wiring diagram](diagram.drawio.svg)
+
+Source: [diagram.drawio](diagram.drawio) — open in [diagrams.net](https://app.diagrams.net).
+
 # Scripts
 
 - `test_led.py` - cycles the onboard NeoPixel through a rainbow, quick check the board is alive.
