@@ -15,3 +15,8 @@ I am building on a rp2040 zero an Ethernet Cable tester. I will use this readme 
 - 1x USB-C cable
 
 For now I checked only [otronic.nl](otronic.nl), they seem pretty cheap, I wantedd to look on the website of a local store, but it is down lmao for the moment
+
+# Scripts
+
+- `test_led.py` - cycles the onboard NeoPixel through a rainbow, quick check the board is alive.
+- `test_logic.py` - runs `tester.analyze()` against good/swapped/open/short cable cases, no hardware needed.
