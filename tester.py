@@ -1,4 +1,5 @@
-# Placeholder pin map. Update after checking which pins your Zero exposes.
+# Pin map verified against the Waveshare RP2040 Zero pinout.
+# Note: GP9 to GP13 are bottom-row pads, may need pins soldered on.
 A = [0, 1, 2, 3, 4, 5, 6, 7]
 B = [8, 9, 10, 11, 12, 13, 14, 15]
 ALL = A + B
